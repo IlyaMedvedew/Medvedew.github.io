@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Швея" as P {
+ Машинка
+Шить(Материал, Заказ) -> Рубашка
+}
+hide circle
+@enduml
