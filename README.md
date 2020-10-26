@@ -26,7 +26,7 @@
 
 Подуровень IDF0 диаграммы:
 
-![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_2/IDEF0_A1-3.png)
+
 
 A1 Технолог получает на вход заказ и ткань. И в соответствии с заказом возвращает необходимую ткань.
 
