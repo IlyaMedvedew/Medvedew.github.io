@@ -49,7 +49,16 @@ DFD диаграмма:
 
 Диаграмма последовательности
 
+[Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram1) и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm1.png) диаграммы последовательности.
 
+![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm1.png)
+
+
+ER-диаграмма
+
+[Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2 и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2png) диаграммы классов.
+
+![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2png)
 
 ## Лабораторная 4
 
