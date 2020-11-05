@@ -58,7 +58,7 @@ ER-диаграмма
 
 [Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2) и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2png) диаграммы классов.
 
-![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2png)
+![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2.png)
 
 ## Лабораторная 4
 
