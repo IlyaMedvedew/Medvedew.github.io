@@ -49,9 +49,7 @@ DFD диаграмма:
 
 Диаграмма последовательности
 
-[Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram1) и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram1.png) диаграммы последовательности.
 
-![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram1.png)
 
 ## Лабораторная 4
 
