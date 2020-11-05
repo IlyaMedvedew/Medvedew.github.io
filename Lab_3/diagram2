@@ -9,7 +9,7 @@ class ControlInfo as "Информационный поток"
 
 class Data as "Запись в базе данных"
 
-class Order as "Заказ"
+class Order as "Ткань"
 
 class Description as "Необходимая тканей"
 class Limit as "Описание ткани"
