@@ -53,12 +53,15 @@ DFD диаграмма:
 
 ![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm1.png)
 
+Технолог создает запрос с описанием ткани, требуемой в заказе через веб-приложение, а швея на своей строне веб-приложения получает тип ткани.
 
 ER-диаграмма
 
-[Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2) и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2.png) диаграммы классов.
+[Текст](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2) и [рисунок](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2.png) диаграммы классов.
 
-![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagramm2.png)
+![none](https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Lab_3/diagram2.png)
+
+Ткань - запись в базе данных, которая относится к информационным потокам, и состоит из: типа ткани и ее описания
 
 ## Лабораторная 4
 
