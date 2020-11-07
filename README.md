@@ -4,7 +4,7 @@
 
 ## [Отчет](https://github.com/IlyaMedvedew/Medvedew.github.io/wiki/LaboratorRabota1-3) по лабораторным работам 1-3
 
-## Домашнее задание по [семинарам 3-4]()
+## Домашнее задание по [семинарам 3-4](https://github.com/IlyaMedvedew/Medvedew.github.io/wiki/Деловая-игра)
 
 ## [Отчет]() по лабораторным работам 4-6
 
