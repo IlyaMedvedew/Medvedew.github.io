@@ -8,5 +8,6 @@
 
 ## [Отчет]() по лабораторным работам 4-6
 
-## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam02-3) и [проверенный]()
+## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam02-3) и [проверенный]() 
 
+## [Курсовой проект](https://github.com/IlyaMedvedew/Medvedew.github.io/wiki/Курсовой-проект)
